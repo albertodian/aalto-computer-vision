@@ -1,4 +1,4 @@
-# Computer Vision CS-E4850 - Exercise Solutions
+# CS-E4850 - Computer Vision D - Exercise Solutions
 
 This repository contains my solutions for the exercises from the course **CS-E4850 - Computer Vision D** at **Aalto University**. Each exercise focuses on various aspects of computer vision, including image processing, feature extraction, machine learning applications in vision, and more.
 
